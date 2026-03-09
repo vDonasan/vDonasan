@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Vitor 👋
 
-<!--
-**vDonasan/vDonasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia da Computação na PUCPR, com foco em desenvolvimento Backend.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+##  Sobre mim
+
+-  Estudando Engenharia da Computação na **PUCPR**
+-  Foco em **Backend**, aberto a **Full Stack**
+-  Aprendendo constantemente sobre estruturas de dados e arquitetura de sistemas
+-  Buscando **estágio em desenvolvimento de software**
+
+##  Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitordonasan)
