@@ -127,7 +127,6 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 </details>
 
 ---
----
 
 <h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2338e07b" width="26" align="top"/>&nbsp; Experiência</h2>
 
