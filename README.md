@@ -127,14 +127,6 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 </details>
 
 ---
-
-<h2><img src="https://api.iconify.design/lucide/chart-column.svg?color=%2338e07b" width="26" align="top"/>&nbsp; Linguagens mais usadas no GitHub</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vDonasan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38e07b&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vDonasan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38e07b&icon_color=1f6feb&locale=pt-br&include_all_commits=true" />
-</p>
-
 ---
 
 <h2><img src="https://api.iconify.design/lucide/briefcase.svg?color=%2338e07b" width="26" align="top"/>&nbsp; Experiência</h2>
