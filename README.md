@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/vitordonasan"><img src="https://img.shields.io/badge/LinkedIn-vitordonasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vitordonasan@gmail.com"><img src="https://img.shields.io/badge/Gmail-vitordonasan-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Curitiba-PR-38e07b?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ingl%C3%AAs-Avan%C3%A7ado%20(Cambridge)-1f6feb?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 </p>
@@ -36,7 +35,7 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,html,css,js,matlab&perline=9" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,unity,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql,unity,git,github,linux&perline=7" />
 </p>
 
 <p align="center"><i>Clique em cada área para ver onde apliquei cada tecnologia.</i></p>
@@ -144,18 +143,6 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 
 ---
 
-<h2><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2338e07b" width="26" align="top"/>&nbsp; Projetos</h2>
-
-| Projeto | Stack | Destaque técnico |
-|---|---|---|
-| [**PetShop Manager**](https://github.com/vDonasan/Trabalhos-Java/tree/main/PetShop3) | <img src="https://skillicons.dev/icons?i=java" height="22"/> | MVC, JSON sem bibliotecas, backup com rotação e rollback |
-| [**SoundVault**](https://github.com/vDonasan/Trabalhos-Python/tree/main/SoundVault%20-%20Copia) | <img src="https://skillicons.dev/icons?i=python,flask,js" height="22"/> | API REST, streaming com Range Requests, hash MD5 |
-| **Engineering Survivors** | <img src="https://skillicons.dev/icons?i=cs,unity" height="22"/> | Sinergia de itens, bosses por waves, multiplayer online |
-| [**2048**](https://github.com/vDonasan/Trabalhos-C) | <img src="https://skillicons.dev/icons?i=c" height="22"/> | Lógica de grade 4x4, persistência de recorde |
-| [**Jogo da Vida**](https://github.com/vDonasan/Trabalhos-Python/tree/main/Jogo%20da%20Vida) | <img src="https://skillicons.dev/icons?i=python" height="22"/> | Autômato celular, formato de arquivo próprio `.vid` |
-
----
-
 <h2><img src="https://api.iconify.design/lucide/award.svg?color=%2338e07b" width="26" align="top"/>&nbsp; Certificados</h2>
 
 <p>
@@ -167,12 +154,21 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 ---
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vDonasan/vDonasan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vDonasan/vDonasan/output/github-snake.svg" />
+    <img alt="Animação da cobrinha nas contribuições do GitHub" src="https://raw.githubusercontent.com/vDonasan/vDonasan/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
   <b>Aberto a estágios e oportunidades em desenvolvimento de software, backend e automação.</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vitordonasan"><img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vitordonasan@gmail.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
