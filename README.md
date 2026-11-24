@@ -134,8 +134,10 @@ Gosto de entender o que acontece por baixo dos panos. Já escrevi **serializaç�
 <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,c,html,css" height="28"/>
 
 - Sistema de chamados de manutenção com histórico em banco de dados, desenvolvido e implantado do zero
-- Jogos interativos para a SIPAT, avaliando conhecimento de segurança dos operadores
-- Automações e aplicações com PowerApps e Power Automate
+- Jogos interativos para a SIPAT, avaliando conhecimento de segurança dos operadores ( Python, Css e Javascript )
+- Automações e aplicações com PowerApps Power Automate, e Python
+- Sistema de Monitoramento de Calibração de Equipamentos ( Typescript, PostGreSQL )
+- Sistema de Helpdesk ( Python + Html )
 
 **PUCPR** · Monitor de Raciocínio Computacional e Programação Imperativa · *2026.1 – atual*
 <br/>
